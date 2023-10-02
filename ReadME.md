@@ -1,4 +1,4 @@
-# <p align="center" style="margin-top: 0px;"> Designing a Bank Marketing Database
+# <p align="left" style="margin-top: 0px;"> Designing a Bank Marketing Database
 
 ![piggy_bank](piggy_bank.jpg)
 
