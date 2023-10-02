@@ -1,4 +1,4 @@
-![piggy_bank](piggy_bank.jpg)
+![piggy_bank](piggy_bank.git add .jpg)
 
 <br>
 
