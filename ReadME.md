@@ -1,4 +1,9 @@
-![piggy_bank](piggy_bank.git add .jpg)
+# <p align="center" style="margin-top: 0px;"> 🥑 Case Study #3 - Foodie-Fi 🥑
+
+<p align="center" style="margin-bottom: 0px !important;">
+<img src="https://github.com/Chisomnwa/8-Week-SQL-Challenge-Case-Study--3-Foodie-Fi/blob/main/Images/Foodie-Fi%20Photo.png" width="540" height="540">
+  
+![piggy_bank](piggy_bank.git add .jpg) (https://github.com/Chisomnwa/Designing-a-Bank-Marketing-Database/blob/main/piggy_bank.jpg)
 
 <br>
 
