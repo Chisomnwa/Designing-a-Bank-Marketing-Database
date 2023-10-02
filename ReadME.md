@@ -56,12 +56,12 @@ You have been asked to design a database that will have three tables:
 <br>
 
 ---
-To view the expected output for each task and how to successfully load the data into a PostgreSQL database after cleaning and getting it ready, see the [notebook](https://github.com/Chisomnwa/TheLook_Ecommerce_Analysis/blob/main/Business%20Case%20Study%20Questions%20and%20Answers.md)
+To view the expected output for each task and how to successfully load the data into a PostgreSQL database after cleaning and getting it ready, see the [notebook](https://github.com/Chisomnwa/TheLook_Ecommerce_Analysis/blob/main/Business%20Case%20Study%20Questions%20and%20Answers.md).
 
 
 <br>
 
 ---
-And you'd love to read my article about the project on [Medium]()
+And you'd love to read my article about the project on [Medium]().
 
 
