@@ -5,7 +5,7 @@
 <br>
 
 ---
-*This is my first **Data Engineering** project that involves creating a comprehensive database to store and manage customer information for a bank's marketing campaigns.*
+*This **Data Engineering** project involves creating a comprehensive database to store and manage customer information for a bank's marketing campaigns.*
 
 <br>
 
